@@ -1,11 +1,13 @@
-[
-  {
-    "id": 1,
-    "name": "test",
-    "hasChildren": false,
-    "url": "http://teste.com",
-    "children": [],
-    "title": "title",
-    "metaTagDescription": "tag"
-  }
-]
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "test",
+      "hasChildren": false,
+      "url": "http://teste.com",
+      "children": [],
+      "title": "title",
+      "metaTagDescription": "tag"
+    }
+  ]
+}
